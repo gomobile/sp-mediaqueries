@@ -1,4 +1,4 @@
-This project is the starting point for the App Designer Media Queries tutorial video.The
+This project is the starting point for the App Designer Media Queries tutorial and video.The
 App Designer is included in the Intel(R) XDK.
 
 Intel(R) XDK
